@@ -1,4 +1,5 @@
 EatTheBlocks Blockchain Development Bootcamp - DEX Project
+Guided learning proyect done during the bootcamp beside the rest of the students.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
