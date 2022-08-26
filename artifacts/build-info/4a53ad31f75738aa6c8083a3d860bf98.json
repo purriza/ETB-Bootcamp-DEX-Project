@@ -1,0 +1,69 @@
+{
+	"id": "4a53ad31f75738aa6c8083a3d860bf98",
+	"_format": "hh-sol-build-info-1",
+	"solcVersion": "0.6.3",
+	"solcLongVersion": "0.6.3+commit.8dda9521",
+	"input": {
+		"language": "Solidity",
+		"sources": {
+			"Rep.sol": {
+				"content": ""
+			}
+		},
+		"settings": {
+			"optimizer": {
+				"enabled": false,
+				"runs": 200
+			},
+			"outputSelection": {
+				"*": {
+					"": [
+						"ast"
+					],
+					"*": [
+						"abi",
+						"metadata",
+						"devdoc",
+						"userdoc",
+						"storageLayout",
+						"evm.legacyAssembly",
+						"evm.bytecode",
+						"evm.deployedBytecode",
+						"evm.methodIdentifiers",
+						"evm.gasEstimates",
+						"evm.assembly"
+					]
+				}
+			}
+		}
+	},
+	"output": {
+		"errors": [
+			{
+				"component": "general",
+				"formattedMessage": "Rep.sol: Warning: Source file does not specify required compiler version! Consider adding \"pragma solidity ^0.6.3;\"\n",
+				"message": "Source file does not specify required compiler version! Consider adding \"pragma solidity ^0.6.3;\"",
+				"severity": "warning",
+				"sourceLocation": {
+					"end": -1,
+					"file": "Rep.sol",
+					"start": -1
+				},
+				"type": "Warning"
+			}
+		],
+		"sources": {
+			"Rep.sol": {
+				"ast": {
+					"absolutePath": "Rep.sol",
+					"exportedSymbols": {},
+					"id": 1,
+					"nodeType": "SourceUnit",
+					"nodes": [],
+					"src": "0:0:0"
+				},
+				"id": 0
+			}
+		}
+	}
+}

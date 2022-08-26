@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.3+commit.8dda9521"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Dai.sol": "Dai"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Dai.sol": {
+			"keccak256": "0x24f861b512efe4173f9e518213ad064f723c81058fe1d06cce76840114a80621",
+			"urls": [
+				"bzz-raw://5c256986ddb5787a8d56f1adbaeb4eaf719eb53bf82405bb149c0e3489e8a3d2",
+				"dweb:/ipfs/QmUtuymjBA8aPd5JpB9ypBU83U54hBQnZ2BuD6nXQJJhJY"
+			]
+		}
+	},
+	"version": 1
+}
